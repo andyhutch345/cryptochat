@@ -1,0 +1,12 @@
+target 'CryptoChat' do
+  use_frameworks!
+
+  # Pods for CryptoChat
+  pod 'Firebase/Core'
+  pod 'Firebase/Storage'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Database'
+  pod 'JSQMessagesViewController'
+  pod 'CryptoSwift', :git => "https://github.com/krzyzanowskim/CryptoSwift", :branch => "master"
+  
+end

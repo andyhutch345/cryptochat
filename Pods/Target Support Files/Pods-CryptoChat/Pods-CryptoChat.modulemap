@@ -1,0 +1,6 @@
+framework module Pods_CryptoChat {
+  umbrella header "Pods-CryptoChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
